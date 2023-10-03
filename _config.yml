@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sun Xvecong / Academics Page"
+title                    : "Sun Xuecong / Academics Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://sunxvecong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhoulvbang/zhoulvbang.github.io"
+repository               : # "zhoulvbang/zhoulvbang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,14 +83,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "个人信息"
-  avatar           : "academic50k.png"
-  bio              : "清醒的在这个世界混时度日"
+  name             : "Sun Xuecong (孙雪聪)"
+  avatar           : "myphoto.png"
+  bio              : "Life is a wilderness"
   location         : "Beijing China"
-  employer         : "Huawei"
+  #employer         :  "Huawei"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  zhihu            : "people/zhoulvbang"
+  #zhihu            : # "people/zhoulvbang"
   email            : "sunxvecong@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
