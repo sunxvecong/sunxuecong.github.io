@@ -19,6 +19,6 @@ Interests
 ======
 - Intelligent design and application of acoustic metamaterials
 - Speaker orientation and location detection
-- Proximity wake-up
+- Proximity wake-up algorithm
 - Acoustic simulation for complex scene
 
