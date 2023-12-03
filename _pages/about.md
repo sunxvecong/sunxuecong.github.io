@@ -1,14 +1,4 @@
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-A data-driven personal website：一个数据驱动的个人网站
+About me
 ======
 
 与许多其他基于 Jekyll 的 GitHub Pages 模板一样，academicpages 使您可以将网站的内容与其形式分开。 您网站的内容和元数据在结构化的 Markdown 文件中，而其他各种文件构成主题，指定如何将该内容和元数据转换为 HTML 页面。 您将这些各种 Markdown (.md)、YAML (.yml)、HTML 和 CSS 文件保存在公共 GitHub 存储库中。 每次提交并向存储库推送更新时，[GitHub pages](https://pages.github.com/) 服务会根据这些文件创建静态 HTML 页面，这些页面免费托管在 GitHub 的服务器上。
