@@ -15,4 +15,6 @@ Conventional approaches to sound localization and separation are based on microp
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.201902271)
 
-Recommended citation: Sun, X. C., Jia, H., Zhang, Z., Yang, Y. Z., Sun, Z. Y., Yang, J., Sound Localization and Separation in 3D Space Using a Single Microphone with a Metamaterial Enclosure. Adv. Sci. 2020, 7, 1902271. https://doi.org/10.1002/advs.201902271
+Recommended citation
+======
+Sun, X. C., Jia, H., Zhang, Z., Yang, Y. Z., Sun, Z. Y., Yang, J., Sound Localization and Separation in 3D Space Using a Single Microphone with a Metamaterial Enclosure. Adv. Sci. 2020, 7, 1902271. https://doi.org/10.1002/advs.201902271
