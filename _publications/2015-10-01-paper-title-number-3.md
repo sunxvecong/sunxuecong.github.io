@@ -2,11 +2,11 @@
 title: "Sound Localization and Separation in 3D Space Using a Single Microphone with a Metamaterial Enclosure"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Sun, X. C., Jia, H., Zhang, Z., Yang, Y. Z., Sun, Z. Y., Yang, J.'
 date: 2020
 venue: 'Advanced Science'
 paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.201902271'
-citation: 'Sun, X. C., Jia, H., Zhang, Z., Yang, Y. Z., Sun, Z. Y., Yang, J., Sound Localization and Separation in 3D Space Using a Single Microphone with a Metamaterial Enclosure. Adv. Sci. 2020, 7, 1902271. https://doi.org/10.1002/advs.201902271'
+# citation: 'Sun, X. C., Jia, H., Zhang, Z., Yang, Y. Z., Sun, Z. Y., Yang, J., Sound Localization and Separation in 3D Space Using a Single Microphone with a Metamaterial Enclosure. Adv. Sci. 2020, 7, 1902271. https://doi.org/10.1002/advs.201902271'
 ---
 
 Abstract
