@@ -3,14 +3,21 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+redirect_from:
+  - /resume
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Speaker orientation and location detection
+======
+* 公共事业管理, 湖南中医药大学 2019-2023
+  * GPA：3.69/5
+  * 专业排名：15%
+
+Proximity wake-up algorithm
+======
+* 暂无
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
