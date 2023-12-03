@@ -13,7 +13,7 @@ I’m a senior algorithm engineer at Huawei, working on **speech-related algorit
 Interests
 ======
 - Intelligent design and application of acoustic metamaterials
-- Speaker orientation and location detection,
+- Speaker orientation and location detection
 - Proximity wake-up
 - Acoustic simulation for complex scene
 
