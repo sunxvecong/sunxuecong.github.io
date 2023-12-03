@@ -8,6 +8,9 @@ venue: 'Advanced Science'
 paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.201902271'
 citation: 'Sun, X. C., Jia, H., Zhang, Z., Yang, Y. Z., Sun, Z. Y., Yang, J., Sound Localization and Separation in 3D Space Using a Single Microphone with a Metamaterial Enclosure. Adv. Sci. 2020, 7, 1902271. https://doi.org/10.1002/advs.201902271'
 ---
+
+Abstract
+======
 Conventional approaches to sound localization and separation are based on microphone arrays in artificial systems. Inspired by the selective perception of the human auditory system, a multisource listening system which can separate simultaneous overlapping sounds and localize the sound sources in 3D space, using only a single microphone with a metamaterial enclosure is designed. The enclosure modifies the frequency response of the microphone in a direction-dependent manner by giving each direction a characteristic signature. Thus, the information about the location and the audio content of sound sources can be experimentally reconstructed from the modulated mixed signals using a compressive sensing algorithm. Due to the low computational complexity of the proposed reconstruction algorithm, the designed system can also be applied in source identification and tracking. The effectiveness of the system in multiple real-life scenarios is evaluated through multiple random listening tests. The proposed metamaterial-based single-sensor listening system opens a new way of sound localization and separation, which can be applied to intelligent scene monitoring and robot audition.
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.201902271)
