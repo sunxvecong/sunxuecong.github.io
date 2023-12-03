@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Xuecong Sun (孙雪聪)"
   avatar           : "myphoto.png"
-  bio              : "Doctor of Philosophy in Signal and Information Processing"
-  location         : "Beijing"
-  employer         :  "Senior Algorithm Engineer at Huawei"
+#  bio              : "Doctor of Philosophy in Signal and Information Processing"
+  location         : "Beijing, China"
+#  employer         :  "Senior Algorithm Engineer at Huawei"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   #zhihu            : # "people/zhoulvbang"
