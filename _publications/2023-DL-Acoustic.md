@@ -2,8 +2,6 @@
 title: "Acoustic Structure Inverse Design and Optimization Using Deep Learning"
 collection: publications
 permalink: /publication/2023-DL-Acoustic
-excerpt: 'SUNX, JIA H, YANGY, ZHAO H, BI Y, SUN Z, YANG J.'
-paperurl: 'https://github.com/sunxvecong/sunxvecong.github.io/blob/master/files/DL_Acoustic.pdf'
 ---
 
 Abstract
