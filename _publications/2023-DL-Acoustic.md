@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-DL-Acoustic
 excerpt: 'Xuecong Sun, Han Jia, Yuzhen Yang, Han Zhao, Yafeng Bi, Zhaoyong Sun and Jun Yang'
 date: 2023-11-01
-venue: 'unpublished'
+venue: unpublished
 ---
 
 
