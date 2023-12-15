@@ -22,4 +22,4 @@ In a word, this paper systematically makes an in-depth study on the intelligent 
 
 [Download paper here](https://github.com/sunxvecong/sunxvecong.github.io/blob/master/files/Doctoral_dissertation.pdf)
 
-<iframe src="https://www.bilibili.com/video/BV1zc41127rp/" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=282326861&bvid=BV1zc41127rp&cid=1367103108&p=1" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
