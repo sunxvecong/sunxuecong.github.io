@@ -2,7 +2,7 @@
 title: "Physics-aware training for the physical machine learning model building"
 collection: publications
 permalink: /publication/2022-TheInnovation
-excerpt: 'Xuecong Sun, Yuzhen Yang, Han Jia,Jun Yang.'
+excerpt: 'Xuecong Sun, Yuzhen Yang, Han Jia and Jun Yang'
 date: 2022-07-08
 venue: 'The Innovation'
 ---
