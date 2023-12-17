@@ -89,7 +89,7 @@ author:
   location         : "Beijing, China"
 #  employer         :  "Senior Algorithm Engineer at Huawei"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=7NFNTqIAAAAJ&hl=en"
   #zhihu            : # "people/zhoulvbang"
   email            : "sunxvecong@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E9%9B%AA%E8%81%AA-%E5%AD%99-1a3353b1/"
+  linkedin         : "https://www.linkedin.com/in/xuecong-sun-1a3353b1"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
