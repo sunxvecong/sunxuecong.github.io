@@ -1,6 +1,8 @@
 # Publications
 1. 修改https://sunxvecong.github.io/publications/ 页面的相关设置：/_includes/archive-single.html
 1. 修改https://sunxvecong.github.io/publications/xxx 页面的相关设置：/_layouts/single.html
+2. /_data/navigation.yml文件可用于编辑“publication”“project”等标题
+
 
 1. 转到存储库的设置（以“Code”开头的选项卡中最右侧的项目应位于“unwatch”下方）. Rename the repository "[your GitHub username].github.io", 这也将是您网站的网址（URL）.
 1. 设置站点范围的配置并创建内容和元数据 (see below -- also see [this set of diffs](http://archive.is/3TPas) 显示更改设置的文件 [an example site](https://getorg-testacct.github.io) 对于具有用户名的用户 "getorg-testacct")
