@@ -21,8 +21,18 @@ Speaker Localization for Vehicle’s System
 * An algorithm module has been designed to detect the location of speakers within the car. When multiple speakers are present in the car, the module can determine the location of the user interacting with the voice assistant through the wake-up phrases, and then enhance the sound signal from that location.
 
  
-Cabin acoustic simulation
+Speech data augmentation methods based on acoustic simulation
 ======
-* xx
-  * xx
-  * xx
+* A fast and efficient acoustic simulation scheme has been proposed based on the principle of reciprocity, which combines geometric
+acoustics and finite element methods to simulate the impulse responses (IR) of speakers at different positions and orientations within
+the cabin.
+* The aforementioned simulation data was verified through training a sound localization model, achieving over 95% localization accuracy
+on a real-recorded test set. Mixing this data with real-recorded training data can significantly enhance the model’s performance in
+challenging scenarios such as sound zone boundaries and high-noise environments.
+
+Sound orientation detection for collaborative Wake-Up System
+======
+* An algorithm for estimating the orientation of the speaker based on single-channel speech signal was proposed. The algorithm does
+not require any pre-training and has low computational complexity, making it suitable for real-time applications.
+* When there are multiple devices in the space, the algorithm can be used to determine which device the speaker is facing. This allows
+for a more natural and intuitive way to interact with smart home devices.
