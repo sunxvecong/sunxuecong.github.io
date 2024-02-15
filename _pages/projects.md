@@ -23,7 +23,7 @@ Speaker Localization for Vehicle’s System
 Speech data augmentation methods based on acoustic simulation
 ======
 * Developed a high-efficiency acoustic simulation method based on the principle of reciprocity, integrating geometric acoustics and finite element methods to simulate speaker impulse responses in various cabin configurations.
-* Validated the simulation data by training a sound localization model, achieving 95$\%$ accuracy on real-recorded datasets. Improved model accuracy in boundary and high-noise environments by blending simulation data with real-recorded training sets.
+* Validated the simulation data by training a sound localization model, achieving 95% accuracy on real-recorded datasets. Improved model accuracy in boundary and high-noise environments by blending simulation data with real-recorded training sets.
 
 Sound orientation detection for collaborative Wake-Up System
 ======
